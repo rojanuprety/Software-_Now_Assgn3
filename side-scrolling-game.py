@@ -175,7 +175,7 @@ class Enemy:
     def __init__(self, x, y, enemy_type):
         self.x = x
         self.y = y
-        self.width = 40
+        self.width = 41
         self.height = 60
         self.vel_x = 0
         self.vel_y = 0
