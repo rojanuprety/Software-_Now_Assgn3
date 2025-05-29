@@ -8,8 +8,8 @@ class ImageEditorApp:
         self.root = root
         self.root.title("Image Crop & Resize App")
 
-        self.image = None  # Original image
-        self.cropped = None  # Cropped image
+        self.image = None 
+        self.cropped = None  
 
         self.canvas = tk.Canvas(root, cursor="cross")
         self.canvas.grid(row=0, column=0, columnspan=2)
