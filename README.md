@@ -18,4 +18,7 @@ Question 1 Output
 Question 2 Output
 ![image](https://github.com/user-attachments/assets/f6b376e5-9ecf-4bc7-894e-99128e05086a)
 
+Question 1 Output
+https://raw.githubusercontent.com/rojanuprety/Software-_Now_Assgn3/refs/heads/main/Q1-Output.png
+
 
