@@ -16,4 +16,6 @@ Question 1 Output
 
 
 Question 2 Output
+![image](https://github.com/user-attachments/assets/f6b376e5-9ecf-4bc7-894e-99128e05086a)
+
 
