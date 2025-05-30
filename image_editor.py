@@ -11,14 +11,14 @@ class ImageEditorApp:
         self.root.title("Image Editor")
         self.root.geometry("1200x800")
         
-        # Image data
+        # Image data below
         self.original_image = None
         self.display_image = None
         self.cropped_image = None
         self.history = []  # For undo/redo
         self.history_index = -1
         
-        # Crop variables
+        # Crop variables below
         self.cropping = False
         self.start_x = None
         self.start_y = None
